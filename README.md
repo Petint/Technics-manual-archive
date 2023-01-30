@@ -1,2 +1,2 @@
 # Technics-manual-archive
-Old Technics manuals scanned at 1200dpi
+Old Technics manuals scanned at 600dpi
